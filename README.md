@@ -13,6 +13,5 @@ Heart Disease Project Description
 # Exang - exercise induced angina (1 = yes; 0 = no)
 # Target - yes or NO
 # Oldpeak - >ST depression induced by exercise relative to rest
-
 so from prediction we get which factors area strongly releted or reasons for heart disease.
 
