@@ -1,8 +1,7 @@
 # Detection-Of-Heart-Disease
 #life style is mostly responsible for heart disease 
 Heart Disease Project Description
-   Columns 14 
-#Age -   age in years
+# Age -   age in years
 # Sex -  (1 = male; 0 = female)
 # Cp  -  chest pain type
 # trestbps - resting blood pressure (in mm Hg on admission to the hospital)
